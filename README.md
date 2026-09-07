@@ -2,14 +2,26 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.8.0
+## 최신 버전 · 1.8.1
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-Setup-1.8.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-1.8.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-Setup-1.8.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-1.8.1.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.8.1:START -->
+### inLista 1.8.1
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-Setup-1.8.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-1.8.1.apk)
+
+- **폰에서 로그인이 안 되던 문제를 고쳤습니다.** 앱에 인터넷 권한이 빠져 있었습니다 — 지금까지 완전히 로컬로만 동작하던 앱이라 넣을 일이 없었고, PC에서는 멀쩡해서 늦게 발견됐습니다.
+- **동기화 결과에 무엇이 바뀌었는지 파일 이름까지 나옵니다.** "올림 2"만 보면 무엇이 올라갔는지 알 수 없었습니다. 충돌 사본과 치워 둔 파일은 어디로 갔는지도 함께 적습니다.
+- **좁은 화면에서 날짜 구간이 잘리던 것**을 고쳤습니다. `2026.09.07 - 2026.09.13`의 뒷부분이 `…`로 잘렸습니다. 날짜와 설정·범위 버튼을 아랫줄로 옮겨 한 줄을 넉넉히 쓰게 했습니다.
+- 동기화 설명 문구를 고쳤습니다 — "앞으로 돌아올 때"가 무슨 뜻인지 알기 어려워 "다른 앱 갔다 돌아올 때"로 바꿨습니다.
+<!-- INLISTA_RELEASE:1.8.1:END -->
+
 <!-- INLISTA_RELEASE:1.8.0:START -->
 ### inLista 1.8.0
 
