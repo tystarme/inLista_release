@@ -2,14 +2,26 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.5.1
+## 최신 버전 · 1.6.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.5.1/inLista-Setup-1.5.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.5.1/inLista-1.5.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-Setup-1.6.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-1.6.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.6.0:START -->
+### inLista 1.6.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-Setup-1.6.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-1.6.0.apk)
+
+- **기기 간 동기화의 첫 단계가 열렸습니다.** 설정 → 서버 동기화에서 로그인하고 이 기기를 서버에 연결할 수 있습니다. **계정은 inLoco 와 같은 것을 씁니다** — inLoco 에 이미 가입했다면 그 이메일과 비밀번호를 그대로 쓰세요.
+- **연결 확인** 버튼을 누르면 서버까지 실제로 한 바퀴 돌아 잘 닿는지 알려 줍니다.
+- **아직 파일이 오가지는 않습니다.** 계정과 연결까지 준비된 단계이고, 실제로 맞추는 일은 다음 업데이트에서 켜집니다. 그때까지 할 일은 지금처럼 이 기기의 파일에만 있습니다.
+- 동기화 스위치는 **기본이 꺼짐**입니다. 로컬 전용이 이 앱의 기본값이고, 켜는 것은 선택입니다.
+<!-- INLISTA_RELEASE:1.6.0:END -->
+
 <!-- INLISTA_RELEASE:1.5.1:START -->
 ### inLista 1.5.1
 
