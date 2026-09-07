@@ -2,14 +2,27 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.9.1
+## 최신 버전 · 1.10.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-Setup-1.9.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-1.9.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-Setup-1.10.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-1.10.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.10.0:START -->
+### inLista 1.10.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-Setup-1.10.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-1.10.0.apk)
+
+- **메모를 전체화면으로 쓸 수 있습니다.** 메모 창 위쪽 ⤢ 버튼을 누르면 진짜 본문 화면으로 넘어갑니다. 쓰던 글과 편집 상태를 그대로 들고 갑니다.
+- **자동으로 저장됩니다.** 1.2초쯤 손을 멈추면 저장하고, 창을 어떻게 닫든 — 바깥을 누르든, 뒤로 가든, X를 누르든 — 저장하고 닫습니다. 이제 길게 쓰다 실수로 나가도 잃지 않습니다.
+- **읽기 ↔ 편집을 오갈 때 쓰던 글이 사라지던 문제**를 고쳤습니다. Windows 메모 편집칸이 한글 조합 중에는 글을 밖으로 내보내지 않았는데, 조합이 끝났다는 신호가 오지 않으면 그대로 굳어 한 글자도 나가지 않았습니다.
+- 메모를 거듭 저장할 때 **본문 조각이 하나씩 쌓이던 문제**를 고쳤습니다. 겉으로는 안 보이지만 파일에 아무도 가리키지 않는 본문이 남았습니다.
+- 저장 상태를 헤더에 보여 줍니다 — `저장 중` · `저장됨`.
+<!-- INLISTA_RELEASE:1.10.0:END -->
+
 <!-- INLISTA_RELEASE:1.9.1:START -->
 ### inLista 1.9.1
 
