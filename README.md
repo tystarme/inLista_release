@@ -2,14 +2,24 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.9.0
+## 최신 버전 · 1.9.1
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-Setup-1.9.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-1.9.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-Setup-1.9.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-1.9.1.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.9.1:START -->
+### inLista 1.9.1
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-Setup-1.9.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.1/inLista-1.9.1.apk)
+
+- 충돌 사본 화면의 무리 이름을 **어디에 있는 할 일인지**가 먼저 보이게 바꿨습니다 — `서버 쪽에만 있음 · 가져오기`, `이 기기에만 있음 · 지우기`, `양쪽이 다름 · 서버 쪽으로`.
+- "이 기기에만 있음"이 왜 기본으로 꺼져 있는지 그 자리에 적었습니다. 다른 기기에서 지운 것일 수도, 여기서 방금 추가해 저쪽이 아직 못 본 것일 수도 있어 앱이 구분할 수 없습니다.
+<!-- INLISTA_RELEASE:1.9.1:END -->
+
 <!-- INLISTA_RELEASE:1.9.0:START -->
 ### inLista 1.9.0
 
