@@ -2,14 +2,28 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.6.0
+## 최신 버전 · 1.7.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-Setup-1.6.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.6.0/inLista-1.6.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-Setup-1.7.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-1.7.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.7.0:START -->
+### inLista 1.7.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-Setup-1.7.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-1.7.0.apk)
+
+- **기기 간 동기화가 실제로 동작합니다.** 설정 → 서버 동기화를 켠 뒤 **지금 동기화**를 누르면 할 일과 메모가 서버와 맞춰집니다. 폰과 PC에서 같은 목록을 볼 수 있습니다.
+- **두 기기에서 같은 날짜를 고쳤을 때 어느 쪽도 버리지 않습니다.** 서버 쪽 내용을 `conflicts/` 폴더에 사본으로 남기고, 어디에 뒀는지 화면에 적어 줍니다. 자동으로 합치지 않는 이유는 조용히 할 일이 사라지는 것보다 파일이 두 개인 편이 낫기 때문입니다.
+- **서버에서 지워진 파일도 영구삭제하지 않습니다.** 다른 기기에서 지운 메모는 `.inlista/removed/` 로 옮겨 두어 되돌릴 수 있습니다.
+- 올라가는 것은 `todo.md` 와 메모뿐입니다. **휴지통·설정·충돌 사본은 올라가지 않습니다.**
+- 동기화 도중 어디까지 왔는지, 끝난 뒤 무엇이 오갔는지 보여 줍니다. 실패한 파일이 있으면 감추지 않고 그대로 적습니다.
+- 동기화는 여전히 **기본이 꺼짐**이고, 켜도 직접 눌러야 맞춰집니다. 자동으로 맞추는 시점은 다음 업데이트입니다.
+<!-- INLISTA_RELEASE:1.7.0:END -->
+
 <!-- INLISTA_RELEASE:1.6.0:START -->
 ### inLista 1.6.0
 
