@@ -2,14 +2,28 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.8.1
+## 최신 버전 · 1.9.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-Setup-1.8.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.1/inLista-1.8.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-Setup-1.9.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-1.9.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.9.0:START -->
+### inLista 1.9.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-Setup-1.9.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.9.0/inLista-1.9.0.apk)
+
+- **충돌을 앱 안에서 합칠 수 있습니다.** 설정 → 동기화 → **충돌 사본**에서 저쪽에만 있는 할 일을 하나씩 골라 가져오고, 내 쪽에서 지울 것도 골라 지웁니다.
+- 완료 표시나 시각만 다른 할 일은 따로 모아 `미완료 → 완료`처럼 무엇이 달라지는지 보여 줍니다.
+- **가져오기만 미리 켜져 있습니다.** 다른 기기에서 적은 할 일을 놓치는 쪽이 가장 흔한 손해라서입니다. 지우기와 바꾸기는 직접 켜야 합니다.
+- **적용해도 사본은 남습니다.** 잘못 골랐을 때 되돌아갈 곳이 있어야 하기 때문입니다. 사본은 다 확인한 뒤 따로 지웁니다.
+- 내보내기에 충돌 사본도 함께 나옵니다 — 다른 편집기로 견주고 싶을 때 쓰세요.
+- 지금까지는 사본이 앱 폴더 안에 있어 폰에서 열 방법이 없었습니다. 그 구멍을 메웠습니다.
+<!-- INLISTA_RELEASE:1.9.0:END -->
+
 <!-- INLISTA_RELEASE:1.8.1:START -->
 ### inLista 1.8.1
 
