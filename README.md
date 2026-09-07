@@ -2,14 +2,27 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.7.0
+## 최신 버전 · 1.8.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-Setup-1.7.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.7.0/inLista-1.7.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-Setup-1.8.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-1.8.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.8.0:START -->
+### inLista 1.8.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-Setup-1.8.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.8.0/inLista-1.8.0.apk)
+
+- **동기화가 알아서 됩니다.** 켜 두면 앱을 켤 때 · 앞으로 돌아올 때 · 할 일을 고친 뒤 잠잠해지면 스스로 맞춥니다. 더 이상 버튼을 누르지 않아도 됩니다.
+- 한 글자마다 서버로 보내지 않습니다. 손을 뗀 뒤 한 번만 가고, 앞뒤로 오가며 앱을 껐다 켜도 최소 2분 간격을 지킵니다.
+- **자동 동기화가 실패해도 화면을 막지 않습니다.** 할 일을 적던 손을 멈추게 하지 않기 위해서입니다. 무엇이 잘못됐는지는 동기화 화면에서 「지금 동기화」를 눌러 보면 나옵니다.
+- 서버에 쌓인 옛 버전 기록을 이따금 정리합니다(경로마다 최근 20벌). 되살리기는 그대로 되면서 용량은 안 늘어납니다.
+- 동기화는 여전히 **기본이 꺼짐**입니다. 켜지 않으면 타이머조차 돌지 않고, 데이터가 기기 밖으로 나가지 않습니다.
+<!-- INLISTA_RELEASE:1.8.0:END -->
+
 <!-- INLISTA_RELEASE:1.7.0:START -->
 ### inLista 1.7.0
 
