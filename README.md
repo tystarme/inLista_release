@@ -2,14 +2,27 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.10.1
+## 최신 버전 · 1.11.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-Setup-1.10.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-1.10.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-Setup-1.11.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-1.11.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.11.0:START -->
+### inLista 1.11.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-Setup-1.11.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-1.11.0.apk)
+
+- **날짜 구분이 한눈에 들어옵니다.** 행으로 볼 때 날짜 머리글에 배경 띠와 위쪽 경계선을 넣고 글씨를 키웠습니다. 오늘은 다른 색으로 뜨고, 남은 개수는 오른쪽 배지로 보입니다.
+- **할 일이 없는 카테고리도 자리를 만들어 둡니다.** 이제 그 카테고리의 첫 할 일도 이름 옆 작은 `+` 로 바로 넣을 수 있습니다 — 오른쪽 아래 큰 `+` 를 거치지 않아도 됩니다.
+- **할 일이 하나도 없는 날에도** 카테고리 자리가 떠서 거기서 바로 넣습니다. 하루씩 볼 때(주 스트립으로 날짜를 옮기는 화면)에 나옵니다.
+- 빈 자리는 흐리게 보여 실제 할 일과 섞이지 않습니다. 카테고리 관리에서 삭제(감추기)한 것은 자리를 만들지 않습니다.
+- 열로 볼 때 할 일이 없는 날도 카테고리 자리가 보입니다.
+<!-- INLISTA_RELEASE:1.11.0:END -->
+
 <!-- INLISTA_RELEASE:1.10.1:START -->
 ### inLista 1.10.1
 
