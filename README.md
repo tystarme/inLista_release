@@ -2,14 +2,26 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.10.0
+## 최신 버전 · 1.10.1
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-Setup-1.10.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.0/inLista-1.10.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-Setup-1.10.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-1.10.1.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.10.1:START -->
+### inLista 1.10.1
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-Setup-1.10.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.10.1/inLista-1.10.1.apk)
+
+- **메모 편집칸이 비어 보이던 문제를 고쳤습니다.** Windows 메모 편집칸으로 보내는 메시지가 형식이 어긋나 **전부 버려지고 있었습니다** — 본문을 넣어 주는 신호도요. 그래서 이미 써 둔 글이 편집 모드에서 없는 것처럼 보였습니다.
+- 입력한 글이 저장되지 않고 읽기 모드에서 사라지던 것도 같은 뿌리였습니다. 읽기 ↔ 편집을 오갈 때도 편집칸을 없앴다 다시 만들지 않습니다.
+- **1.10.0의 자동 저장이 그 빈 화면을 파일에 반영해 메모를 지울 수 있었습니다.** 자동 저장은 이제 **본문을 지우지 못합니다** — 있던 글을 비우는 저장은 저장 버튼을 직접 눌러야 합니다.
+- 1.10.0을 쓰셨다면 바로 올려 주세요.
+<!-- INLISTA_RELEASE:1.10.1:END -->
+
 <!-- INLISTA_RELEASE:1.10.0:START -->
 ### inLista 1.10.0
 
