@@ -2,14 +2,26 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.13.0
+## 최신 버전 · 1.14.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-Setup-1.13.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-1.13.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-Setup-1.14.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-1.14.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.14.0:START -->
+### inLista 1.14.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-Setup-1.14.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-1.14.0.apk)
+
+- **본문이 화면 가운데의 읽기 좋은 페이지 폭으로 표시됩니다.** 넓은 PC 화면에서도 글줄이 끝없이 퍼지지 않으며, 편집 화면과 읽기 화면이 같은 760px 폭을 사용합니다.
+- **본문의 체크리스트를 읽기 화면에서 바로 체크할 수 있습니다.** 누른 상태는 마크다운 원문에 저장되고 기존 자동 저장·동기화 흐름으로 전달됩니다.
+- **inLoco 방식의 접기·펼치기를 지원합니다.** `## {toggle} 제목`이나 `- {toggle} 항목`의 아이콘을 누르면 하위 내용을 접고 펼칠 수 있으며 상태도 원문에 남습니다.
+- 접힌 구간 안의 체크박스와 중첩 체크리스트가 있어도 화면에서 누른 항목이 정확한 원문 항목과 연결됩니다.
+<!-- INLISTA_RELEASE:1.14.0:END -->
+
 <!-- INLISTA_RELEASE:1.13.0:START -->
 ### inLista 1.13.0
 
