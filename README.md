@@ -2,14 +2,27 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.11.0
+## 최신 버전 · 1.13.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-Setup-1.11.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.11.0/inLista-1.11.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-Setup-1.13.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-1.13.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.13.0:START -->
+### inLista 1.13.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-Setup-1.13.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.13.0/inLista-1.13.0.apk)
+
+- **todo 순서를 드래그해서 바꿀 수 있습니다.** 같은 날짜·카테고리 안에서 오른쪽 손잡이를 끌어 원하는 순서로 놓을 수 있습니다.
+- **카테고리 표시 순서를 지정할 수 있습니다.** 카테고리 관리 화면에서 손잡이를 끌면 목록에도 그 순서가 적용됩니다.
+- **여러 날을 열면 오늘이 먼저 보입니다.** 행 배치에서는 오늘을 화면 위쪽에, 열 배치에서는 오늘 열을 가운데에 맞춥니다.
+- **동기화 시점을 촘촘하게 보강했습니다.** 앱 시작·복귀·종료, 메모 열기, todo 추가·완료·수정·이동·삭제 등 주요 동작에서 곧바로 동기화합니다.
+- 동기화 중 새 변경이 생겨도 다음 실행으로 이어지며, 본문 입력은 타이핑을 방해하지 않도록 잠잠해진 뒤 한 번만 전송합니다.
+<!-- INLISTA_RELEASE:1.13.0:END -->
+
 <!-- INLISTA_RELEASE:1.11.0:START -->
 ### inLista 1.11.0
 
