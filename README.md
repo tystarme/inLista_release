@@ -2,14 +2,25 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.14.0
+## 최신 버전 · 1.16.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-Setup-1.14.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.14.0/inLista-1.14.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-Setup-1.16.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-1.16.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.16.0:START -->
+### inLista 1.16.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-Setup-1.16.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-1.16.0.apk)
+
+- **전체화면 본문에서 편집·스플릿·읽기 모드를 고를 수 있습니다.** 상단 보기 방식 버튼에서 전환합니다.
+- 스플릿은 넓은 화면에서 편집기와 미리보기를 좌우로, 좁은 화면에서는 위아래로 배치합니다.
+- 스플릿 중 입력은 Windows WebView2 편집기를 다시 만들지 않고 미리보기만 실시간으로 갱신해 한글 조합과 작성 중인 내용을 보호합니다.
+<!-- INLISTA_RELEASE:1.16.0:END -->
+
 <!-- INLISTA_RELEASE:1.14.0:START -->
 ### inLista 1.14.0
 
