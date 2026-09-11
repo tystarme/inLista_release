@@ -2,14 +2,25 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.16.0
+## 최신 버전 · 1.17.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-Setup-1.16.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.16.0/inLista-1.16.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-Setup-1.17.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-1.17.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.17.0:START -->
+### inLista 1.17.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-Setup-1.17.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-1.17.0.apk)
+
+- **할 일을 카테고리 경계 너머로 드래그해 옮길 수 있습니다.** 놓은 위치에 맞춰 순서와 카테고리가 함께 바뀝니다.
+- 카테고리 관리에서 자동 색 또는 8가지 색을 지정할 수 있으며 목록·빠른 추가·달력·휴지통에 같은 색이 표시됩니다.
+- Android 홈 위젯의 체크 원도 각 할 일의 카테고리 색과 일치합니다.
+<!-- INLISTA_RELEASE:1.17.0:END -->
+
 <!-- INLISTA_RELEASE:1.16.0:START -->
 ### inLista 1.16.0
 
