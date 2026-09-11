@@ -2,14 +2,24 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.17.0
+## 최신 버전 · 1.18.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-Setup-1.17.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.17.0/inLista-1.17.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-Setup-1.18.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-1.18.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.18.0:START -->
+### inLista 1.18.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-Setup-1.18.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-1.18.0.apk)
+
+- **순서 변경 핸들을 잡으면 기다리지 않고 바로 드래그됩니다.** 카테고리 경계를 넘는 이동도 그대로 지원합니다.
+- 설정 화면 맨 아래에서 현재 설치된 inLista의 버전과 빌드 번호를 확인할 수 있습니다.
+<!-- INLISTA_RELEASE:1.18.0:END -->
+
 <!-- INLISTA_RELEASE:1.17.0:START -->
 ### inLista 1.17.0
 
