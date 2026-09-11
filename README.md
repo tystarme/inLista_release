@@ -2,14 +2,24 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.18.0
+## 최신 버전 · 1.18.1
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-Setup-1.18.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.0/inLista-1.18.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-Setup-1.18.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-1.18.1.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.18.1:START -->
+### inLista 1.18.1
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-Setup-1.18.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-1.18.1.apk)
+
+- **사진 동기화 서버를 정상 연결했습니다.** 실제 이미지의 R2 업로드·다운로드와 파일 일치까지 확인했습니다.
+- 사진 서버에 일시적인 문제가 생겨도 todo와 메모 동기화는 정상 완료되며, 사진 문제만 별도 경고로 표시합니다.
+<!-- INLISTA_RELEASE:1.18.1:END -->
+
 <!-- INLISTA_RELEASE:1.18.0:START -->
 ### inLista 1.18.0
 
