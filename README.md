@@ -2,14 +2,29 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.18.1
+## 최신 버전 · 1.23.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-Setup-1.18.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.18.1/inLista-1.18.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-Setup-1.23.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-1.23.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.23.0:START -->
+### inLista 1.23.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-Setup-1.23.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-1.23.0.apk)
+
+- **PC 알림이 이제 실제로 옵니다.** 예약은 걸리는데 표시되지 않던 원인을 찾아 고쳤습니다 — Windows 는 앱이 알림을 한 번 띄운 적이 있어야 예약 알림을 표시하는데, 그 등록이 빠져 있었습니다. 기기마다 처음 한 번 `inLista 알림 준비됨` 알림이 뜨고, 그 뒤로는 할 일 시각에 정상으로 옵니다.
+- **설정에 `알림 시험` 을 뒀습니다.** 이 기기에서 알림을 쓸 수 있는지 보여 주고, 누르면 10초 뒤에 시험 알림을 보냅니다. 그동안은 알림이 안 와도 꺼진 건지 못 켠 건지 알 방법이 없었습니다.
+- **할 일 검색이 생겼습니다.** 목록 아랫줄의 돋보기입니다. 제목·카테고리·개요·장소를 뒤지고, 띄어 쓴 낱말을 모두 포함한 것만 찾습니다. 결과 줄의 날짜 버튼을 누르면 그 날짜로 바로 옮겨 갑니다. 오늘에서 가까운 날부터 보여 줍니다.
+- **완료한 할 일이 카테고리 아래로 내려갑니다.** 완료끼리는 체크하기 전 순서를 지키고, 체크를 풀면 있던 자리로 돌아옵니다. 파일은 건드리지 않고 보이는 순서만 바꿉니다.
+- **홈 위젯 순서도 앱과 맞췄습니다.** 카테고리 순서와 그 안의 순서를 따르고, 완료한 것은 전부 아래로 모아 구분선으로 나눕니다.
+- **할 일에 장소를 붙일 수 있습니다.** 추가·수정 시트의 `개요·장소·시각` 을 펼치면 나옵니다. 원문에는 `{place=값}` 으로 적힙니다.
+- **카테고리 순서와 색이 기기끼리 맞춰집니다.** 폰에서 정한 순서·색이 PC 에도 옵니다. 두 기기에서 동시에 고쳐도 충돌 사본을 만들지 않고 합칩니다.
+<!-- INLISTA_RELEASE:1.23.0:END -->
+
 <!-- INLISTA_RELEASE:1.18.1:START -->
 ### inLista 1.18.1
 
