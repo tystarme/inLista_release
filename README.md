@@ -2,14 +2,24 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.23.0
+## 최신 버전 · 1.23.1
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-Setup-1.23.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.0/inLista-1.23.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-Setup-1.23.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-1.23.1.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.23.1:START -->
+### inLista 1.23.1
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-Setup-1.23.1.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-1.23.1.apk)
+
+- **홈 위젯이 “로드 중…” 에서 안 넘어가던 것을 고쳤습니다.** 1.19.0 에서 완료 구분선을 넣을 때 위젯이 그릴 수 없는 종류의 뷰를 써서, 행이 하나도 안 그려지고 있었습니다. 1.23.0 을 쓰고 계셨다면 이 판으로 올려 주세요.
+- 같은 사고가 나지 않도록, 위젯 레이아웃이 그릴 수 있는 뷰만 쓰는지 자동으로 검사합니다.
+<!-- INLISTA_RELEASE:1.23.1:END -->
+
 <!-- INLISTA_RELEASE:1.23.0:START -->
 ### inLista 1.23.0
 
