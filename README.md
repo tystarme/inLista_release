@@ -2,14 +2,25 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.23.1
+## 최신 버전 · 1.25.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-Setup-1.23.1.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.23.1/inLista-1.23.1.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-Setup-1.25.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-1.25.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.25.0:START -->
+### inLista 1.25.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-Setup-1.25.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-1.25.0.apk)
+
+- **PC에서 할 일 이름·개요·장소·검색어를 칠 때 한글이 뒤섞이거나 커서가 튀던 문제를 고쳤습니다.** 이 입력칸들이 이제 Windows 기본 입력칸을 씁니다. 빠른 추가를 열면 바로 칠 수 있고, 조합 중에 Enter 를 눌러도 한 번에 들어갑니다.
+- **홈 위젯에 새로고침 버튼이 생겼습니다.** 머리글 오른쪽 아이콘을 누르면 앱을 열지 않고 목록을 다시 읽어 **오늘** 기준으로 다시 그립니다. 자정이 지나도 어제 목록이 남아 있던 것이 이걸로 풀립니다. (이 기기의 파일만 다시 읽습니다 — 다른 기기에서 고친 것은 지금처럼 앱을 열 때 받아옵니다.)
+- vault 폴더를 따로 지정한 휴대폰에서 위젯 체크가 앱과 다른 파일을 고치던 문제를 고쳤습니다.
+<!-- INLISTA_RELEASE:1.25.0:END -->
+
 <!-- INLISTA_RELEASE:1.23.1:START -->
 ### inLista 1.23.1
 
