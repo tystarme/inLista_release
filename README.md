@@ -2,14 +2,25 @@
 
 서버 없이 마크다운 `.md` 파일 하나에 쌓아 가는 로컬 우선 할 일 앱 inLista 의 정식 배포 저장소입니다.
 
-## 최신 버전 · 1.25.0
+## 최신 버전 · 1.26.0
 
-- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-Setup-1.25.0.exe)
-- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.25.0/inLista-1.25.0.apk)
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.26.0/inLista-Setup-1.26.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.26.0/inLista-1.26.0.apk)
 
 ## 릴리스 기록
 
 <!-- INLISTA_RELEASES_START -->
+<!-- INLISTA_RELEASE:1.26.0:START -->
+### inLista 1.26.0
+
+- [Windows Setup](https://github.com/tystarme/inLista_release/releases/download/v1.26.0/inLista-Setup-1.26.0.exe)
+- [Android APK](https://github.com/tystarme/inLista_release/releases/download/v1.26.0/inLista-1.26.0.apk)
+
+- **홈 위젯의 새로고침이 이제 서버와 동기화까지 합니다.** 누르면 곧장 목록을 다시 그리고 머리글에 “동기화 중…”이 뜬 뒤, 다른 기기에서 고친 할 일과 카테고리 순서를 받아 다시 그립니다. 실패하면 “동기화 실패”가 남습니다.
+- 앱이 켜져 있으면 앱이 대신 동기화해서 로그인이 꼬이지 않게 했습니다. 앱과 위젯이 동시에 동기화하지 않도록 한 번에 한 곳만 맞춥니다.
+- 동기화를 꺼 두셨다면 새로고침은 전처럼 이 기기의 파일만 다시 읽습니다.
+<!-- INLISTA_RELEASE:1.26.0:END -->
+
 <!-- INLISTA_RELEASE:1.25.0:START -->
 ### inLista 1.25.0
 
